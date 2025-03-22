@@ -1,5 +1,23 @@
+>After doing the [installation](installation.md)
 # spotDL usage examples
 
+## First step, before you start downloading
+### Where does spotDL download songs?
+
+spotDL downloads files to the folder where you ran spotDL from.
+
+Open pwsh/powershell/cmd/terminal/similar in the folder you want files to download to, or cd to
+desired folder.
+
+**Windows Shortcut:** Navigate to the folder you want the files to download to.
+`SHIFT + RIGHT CLICK`, then select "Open PowerShell window here"
+
+![Windows PWSH](images/POWERSHELL.png)
+
+>You can run _spotDL_ as a package if running it as a script (`spotdl [query] [urls]`) doesn't work:
+```sh
+python -m spotdl [query] [urls]
+```
 ## Downloading
 
 ??? Song info
