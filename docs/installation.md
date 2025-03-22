@@ -125,18 +125,6 @@ We have a dedicated Termux installation script
 
 [You can find the AUR Package here](https://aur.archlinux.org/packages/spotdl)
 
-## Where does spotDL download songs?
-
-spotDL downloads files to the folder where you ran spotDL from.
-
-Open pwsh/powershell/cmd/terminal/similar in the folder you want files to download to, or cd to
-desired folder.
-
-**Windows Shortcut:** Navigate to the folder you want the files to download to.
-`SHIFT + RIGHT CLICK`, then select "Open PowerShell window here"
-
-![Windows PWSH](images/POWERSHELL.png)
-
 ## We have a public Discord server at **[discord.gg/xCa23pwJWY](https://discord.gg/xCa23pwJWY)!**
 
 [![Discord Server](https://img.shields.io/discord/771628785447337985?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/xCa23pwJWY)
